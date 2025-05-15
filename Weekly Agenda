@@ -1,5 +1,17 @@
 Agenda
-    May 15 - Jakarta EE 12 - Jared Anderson
+    May 15 - 3 attended - subject postponed
     May 29 - Jakarta Validation 4.0 concerns - Michael Redlich
-    June 12 - <TOPIC>
+    June 12 - Jakarta EE 12 - Jared Anderson
     June 26 - <TOPIC>
+
+
+Backlog of agenda items
+	AI related
+    	Agentic AI with Java
+    	Langchain4j activity
+    Long term vision - 5 year outlook
+    Spec Variations
+        Concurrency (Virtual Threads) 
+        Annotations
+		Jakarta Annotations 3.1 (Emily Jiang voted -1 and explained her concern that we should only 
+			define APIs that are common, not define APIs for a particular specification.)
