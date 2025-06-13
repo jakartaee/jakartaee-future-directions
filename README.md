@@ -1,13 +1,13 @@
-# Jakartaee Future Directions Interest Group
+# Jakarta EE Future Directions Interest Group
 
 ## About Eclipse Interest Groups
 
-Eclipse Interest Groups are a light-weight association of Eclipse Foundation Members that share a common interest in a topic or domain (Participating Members) that inherit and rely upon the Eclipse Foundation’s overall governance, sufficient to enable the Participating Members to collaborate effectively.  All participants must comply with the agreements, policies and procedures of the Eclipse Foundation.  In particular and without limiting the foregoing, at all times participants in all Eclipse Interest Groups must conform to the Eclipse Foundation’s Intellectual Property and Antitrust Policies. You can read more about the requirements to participate and related governance in the formal Eclipse Interest Group Process.
+Eclipse Interest Groups are a light-weight association of Eclipse Foundation Members that share a common interest in a topic or domain (Participating Members) that inherit and rely upon the Eclipse Foundation’s overall governance, sufficient to enable the Participating Members to collaborate effectively. All participants must comply with the agreements, policies and procedures of the Eclipse Foundation. In particular and without limiting the foregoing, at all times participants in all Eclipse Interest Groups must conform to the Eclipse Foundation’s [Intellectual Property](https://www.eclipse.org/org/documents/Eclipse_IP_Policy.pdf) and [Antitrust](https://www.eclipse.org/org/documents/Eclipse_Antitrust_Policy.pdf) policies. You can read more about the requirements to participate and related governance in the formal Eclipse [Interest Group Process](https://www.eclipse.org/collaborations/interest-groups/process/).
 
 
 ## Participation
 
-In order to participate in an Interest Group, an organization must execute the Eclipse Foundation Membership Agreement as well as the Eclipse Foundation Member Committer and Contributor Agreement (if not already in place) and to follow any other steps on how to participate that are defined by the Eclipse Foundation.   
+In order to participate in an Interest Group, an organization must execute the Eclipse Foundation [Membership Agreement](https://www.eclipse.org/org/documents/eclipse-foundation-membership-agreement.pdf?v=1.5) as well as the Eclipse Foundation Member Committer and Contributor Agreement (if not already in place) and to follow any other steps on how to participate that are defined by the Eclipse Foundation.
 
 
 ## Guiding Principles
@@ -18,7 +18,7 @@ All Interest Groups must operate in an open and transparent manner.
 
 **Transparent** - Minutes, plans, and other artifacts are open and easily accessible to all.
 
-Interest Groups, like all communities associated with the Eclipse Foundation, must operate in adherence to the Eclipse Foundation’s Code of Conduct.
+Interest Groups, like all communities associated with the Eclipse Foundation, must operate in adherence to the Eclipse Foundation’s [Code of Conduct](https://www.eclipse.org/org/documents/Community_Code_of_Conduct.php).
 
 ## Materials
 
