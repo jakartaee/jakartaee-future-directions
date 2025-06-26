@@ -16,7 +16,8 @@
 
 ## June 26, 2025
 
-* Topic and facilitator to be determined
+* Jakarta EE 11 release & Content Preference Survey
+* Topic Facilitated by Neil Patterson
 
 ---
 
