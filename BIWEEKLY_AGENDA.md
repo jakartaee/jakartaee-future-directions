@@ -2,8 +2,9 @@
 
 ## July 10, 2025
 
-* Topic and facilitator to be determined.
-
+* Topic: Future directions with Data Access in Jakarta EE as well as Java and Quantum
+* Facilitator: Gavin King
+  
 ## June 26, 2025
 
 * Jakarta EE 11 release & Content Preference Survey
