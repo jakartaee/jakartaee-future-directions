@@ -1,23 +1,27 @@
 # Biweekly Agenda
 
-## May 15, 2025
+## July 10, 2025
 
-* Topic postponed due to only three attendees
-
-## May 29, 2025
-
-* Concerns with Jakarta Validation 4.0 and Jakarta Annotations 3.1
-* Topic Facilitated by Michael Redlich
-
-## June 12, 2025
-
-* Jakarta EE 12
-* Topic Facilitated by Jared Anderson
+* Topic and facilitator to be determined.
 
 ## June 26, 2025
 
 * Jakarta EE 11 release & Content Preference Survey
-* Topic Facilitated by Neil Patterson
+* Topic facilitated by Neil Patterson
+
+## June 12, 2025
+
+* Jakarta EE 12
+* Topic facilitated by Jared Anderson
+
+## May 29, 2025
+
+* Concerns with Jakarta Validation 4.0 and Jakarta Annotations 3.1
+* Topic facilitated by Michael Redlich
+
+## May 15, 2025
+
+* Topic postponed due to only three attendees
 
 ---
 
