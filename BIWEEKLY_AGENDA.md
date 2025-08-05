@@ -1,9 +1,19 @@
 # Biweekly Agenda
 
+## August 21, 2025
+
+* Topic: **From CRUD to Co‑Pilots: Will Jakarta EE Own or Miss the AI‑Native Java Stack?**
+* Facilitator: Markus Eisele
+
+## August 7, 2025
+
+* Topic: To Be Determined
+* Facilitator: To Be Determined
+
 ## July 24, 2025
 
-Topic: What's New in Jakarta Security 5.0?
-Facilitator: Arjan Tijms
+* Topic: What's New in Jakarta Security 5.0?
+* Facilitator: Arjan Tijms
 
 ## July 10, 2025
 
@@ -12,7 +22,7 @@ Facilitator: Arjan Tijms
   
 ## June 26, 2025
 
-* Jakarta EE 11 release & Content Preference Survey
+* Jakarta EE 11 Release & Content Preference Survey
 * Facilitator: Neil Patterson
 
 ## June 12, 2025
