@@ -7,8 +7,7 @@
 
 ## August 7, 2025
 
-* Topic: To Be Determined
-* Facilitator: To Be Determined
+* Meeting canceled; summer break.
 
 ## July 24, 2025
 
