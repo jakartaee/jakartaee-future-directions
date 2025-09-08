@@ -5,7 +5,7 @@
 * Topic: **From CRUD to Co‑Pilots: Will Jakarta EE Own or Miss the AI‑Native Java Stack?**
 * Facilitator: Markus Eisele
 * Recording: https://youtu.be/lipodiI0wqw
-* <a href="https://github.com/jakartaee/jakartaee-future-directions/blob/main/transcripts/JakartaEE-FutureDirections-AI-Meets-Enterprise.pdf"Summary slides</a>
+* <a href="https://github.com/jakartaee/jakartaee-future-directions/blob/main/transcripts/JakartaEE-FutureDirections-AI-Meets-Enterprise.pdf">Summary slides</a>
 
 ## August 7, 2025
 
