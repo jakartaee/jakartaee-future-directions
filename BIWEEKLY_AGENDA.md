@@ -1,5 +1,14 @@
 # Biweekly Agenda
 
+## September 18, 2025
+
+* Meeting canceled; No topic.
+
+## September 4, 2025
+
+* Meeting canceled; No topic.
+
+
 ## August 21, 2025
 
 * Topic: **From CRUD to Co‑Pilots: Will Jakarta EE Own or Miss the AI‑Native Java Stack?**
