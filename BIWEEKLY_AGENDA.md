@@ -2,7 +2,9 @@
 
 ## October 2, 2025
 
-* Topic to be determined
+* Topic: **Roundtable Discussion**
+* Facilitator: Neil Patterson and Michael Redlich
+* Intent: To brainstorm topics for upcoming meetings (see Specification Variations section)
 
 ## September 18, 2025
 
@@ -69,8 +71,9 @@
 
 ### Specification Variations
 
-* Jakarta Portlet with Kito Mann
-* MicroProfile Config to Jakarta Config with Emily Jiang
+* Jakarta Agentic AI (Reza Rahman)
+* Jakarta Portlet (Kito Mann)
+* MicroProfile Config to Jakarta Config (Emily Jiang)
 * Jakarta Concurrency (Virtual Threads) 
 * Jakarta Annotations
 * Jakarta Annotations 3.1
