@@ -1,5 +1,10 @@
 # Biweekly Agenda
 
+## October 16, 2025
+
+* Topic: **Jakarta EE and AI**
+* Facilitator: Mary Grygleski
+
 ## October 2, 2025
 
 * Topic: **Roundtable Discussion**
