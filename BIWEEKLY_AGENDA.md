@@ -4,6 +4,7 @@
 
 * Topic: **Jakarta EE and AI**
 * Facilitator: Mary Grygleski
+* [Discussion Summary](https://github.com/jakartaee/jakartaee-future-directions/blob/main/transcripts/Jakarta%20EE%20Future%20Directions%20-%2020251030.pdf)
 
 ## October 16<sup>th</sup>, 2025
 
