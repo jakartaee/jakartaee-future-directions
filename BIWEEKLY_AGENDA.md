@@ -1,5 +1,18 @@
 # Biweekly Agenda
 
+## December 11<sup>th</sup>, 2025
+
+* Topic: **Jakarta NoSQL 1.1.0**
+* Facilitator: Otávio Santana
+
+## November 27<sup>th</sup>, 2025
+
+* Meeting canceled; Thanksgiving Day in the United States.
+
+## November 13<sup>th</sup>, 2025
+
+* Meeting canceled; No topic.
+
 ## October 30<sup>th</sup>, 2025
 
 * Topic: **Jakarta EE and AI**
@@ -85,6 +98,7 @@
 
 * Jakarta Agentic AI (Reza Rahman)
 * Jakarta Portlet (Kito Mann)
+* Jakarta Concurrency (Steve Millidge)
 * MicroProfile Config to Jakarta Config (Emily Jiang)
 * Jakarta Concurrency (Virtual Threads) 
 * Jakarta Annotations
