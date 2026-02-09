@@ -1,5 +1,10 @@
 # Biweekly Agenda
 
+## February 5<sup>th</sup>, 2026
+
+** Topic: **Technical Solutions for MicroProfile Config**
+** Facilitator: Jan Westerkamp
+
 ## December 11<sup>th</sup>, 2025
 
 * Topic: **Jakarta NoSQL 1.1.0**
