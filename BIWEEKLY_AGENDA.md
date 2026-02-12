@@ -2,8 +2,12 @@
 
 ## February 5<sup>th</sup>, 2026
 
-** Topic: **Technical Solutions for MicroProfile Config**
-** Facilitator: Jan Westerkamp
+* Topic: **Technical Solutions for MicroProfile Config**
+* Facilitator: Jan Westerkamp
+* [Discussion summary](https://github.com/jakartaee/jakartaee-future-directions/blob/main/transcripts/Future%20Directions%2020260205%20meeting%20summary.pdf)
+* [Full transcript](https://github.com/jakartaee/jakartaee-future-directions/blob/main/transcripts/Jakarta%20EE%20Future%20Directions%20-%2020260205.pdf)
+* [Recording](https://youtu.be/DVPw3O3KYAk)
+
 
 ## December 11<sup>th</sup>, 2025
 
