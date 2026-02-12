@@ -1,5 +1,9 @@
 # Jakarta EE Future Directions Interest Group
 
+## About Jakarta EE Future Directions
+
+This interest group is intended to bring together people from inside and outside of Java related working groups, influencers, and other interested parties. It will take on the role of ideation, research, and presentation of recommendations, working closely with the working groups to ensure the ideas are scoped, prioritized, and understood. Recommendations from this interest group are non-binding on the working groups and are intended to provide insights and ideas that working groups do not have time to consider.
+
 ## About Eclipse Interest Groups
 
 Eclipse Interest Groups are a light-weight association of Eclipse Foundation Members that share a common interest in a topic or domain (Participating Members) that inherit and rely upon the Eclipse Foundation’s overall governance, sufficient to enable the Participating Members to collaborate effectively. All participants must comply with the agreements, policies and procedures of the Eclipse Foundation. In particular and without limiting the foregoing, at all times participants in all Eclipse Interest Groups must conform to the Eclipse Foundation’s [Intellectual Property](https://www.eclipse.org/org/documents/Eclipse_IP_Policy.pdf) and [Antitrust](https://www.eclipse.org/org/documents/Eclipse_Antitrust_Policy.pdf) policies. You can read more about the requirements to participate and related governance in the formal Eclipse [Interest Group Process](https://www.eclipse.org/collaborations/interest-groups/process/).
