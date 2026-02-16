@@ -1,5 +1,12 @@
 # Biweekly Agenda
 
+## February 19<sup>th</sup>, 2026
+
+* Topic: **langchain4j-cdi: Infuse your Jakarta and MicroProfile applications with AI**
+* Facilitator: Buhake Sindi
+* Description: Join our discussion as Buhake  shares insights into the new langchain4j-cdi repository within the LangChain4j GitHub organization. This project intends to bring the power of Jakarta EE with the reach of LangChain4j to AI development for Java applications. All the idioms you know and love from Jakarta now work with all the AI exposed by LangChain4j: injection, validation, persistence, REST and more!
+
+
 ## February 5<sup>th</sup>, 2026
 
 * Topic: **Technical Solutions for MicroProfile Config**
