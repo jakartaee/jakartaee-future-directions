@@ -1,5 +1,11 @@
 # Biweekly Agenda
 
+## April 30<sup>th</sup>, 2026
+
+* Topic: **Jakarta REST 5 for EE 12 update**
+* Facilitator: **James Perkins**
+* Description: James will provide an update on the changes coming in Jakarta EE 12 with the REST 5.0 - CDI Integration.
+
 ## April 16<sup>th</sup>, 2026
 
 * Topic: **Jakarta Agentic AI Specification Updates**
