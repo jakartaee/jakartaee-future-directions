@@ -2,7 +2,7 @@
 
 ## April 30<sup>th</sup>, 2026
 
-* Topic: **Jakarta REST 5 for EE 12 update**
+* Topic: **Jakarta REST 5.0 - CDI Integration update**
 * Facilitator: **James Perkins**
 * Description: James will provide an update on the changes coming in Jakarta EE 12 with the REST 5.0 - CDI Integration.
 
