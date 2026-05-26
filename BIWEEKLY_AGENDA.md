@@ -1,5 +1,11 @@
 # Biweekly Agenda
 
+## May 28<sup>th</sup>, 2026
+
+* Topic: **Jakarta Concurrency**
+* Facilitator: **Arjan Tijms**
+* Description: Arjan will provide an update on the new features of Jakarta Concurrency 3.2.
+
 ## April 30<sup>th</sup>, 2026
 
 * Topic: **Jakarta REST 5.0 - CDI Integration update**
