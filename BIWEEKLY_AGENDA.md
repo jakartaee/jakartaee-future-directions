@@ -17,6 +17,7 @@
 * Topic: **Jakarta Agentic AI Specification Updates**
 * Facilitator: **Reza Rahman**
 * Description: Reza will provide an update on the [Jakarta Agentic AI](https://jakarta.ee/specifications/agentic-ai/) specification and plans for the 1.0 release.
+* [Recording](https://youtu.be/hq6p0RUPhZ0)
 
 ## February 26<sup>th</sup>, 2026
 
