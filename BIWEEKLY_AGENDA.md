@@ -4,7 +4,7 @@
 
 * Topic: **Automating the Hard Stuff with Agentic Assistants**
 * Facilitator: **Markus Eisele**
-* Description: Together we will explore the potential for writing and passing Jakarta EE Spec Tests with Agentic AI with the understanding that one of the heaviest burdens in the Jakarta EE ecosystem is ensuring implementation compliance through the Technology Compatibility Kit (TCK).
+* Description: We are excited to have Markus Eisele join us to lead a discussion on the exciting opportunity Agentic Assistants, including IBM Bob, bring to Jakarta EE. Together we will explore the potential for using skills and agents, along with MCP servers to address complexity in the next generation of enterprise Java applications..
 
 ## May 28<sup>th</sup>, 2026
 
