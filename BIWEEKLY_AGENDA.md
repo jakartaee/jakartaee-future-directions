@@ -1,5 +1,11 @@
 # Biweekly Agenda
 
+## July 23<sup>rd</sup>, 2026
+
+* Topic: **Automating the Hard Stuff with Agentic Assistants**
+* Facilitator: **Markus Eisele**
+* Description: Together we will explore the potential for writing and passing Jakarta EE Spec Tests with Agentic AI with the understanding that one of the heaviest burdens in the Jakarta EE ecosystem is ensuring implementation compliance through the Technology Compatibility Kit (TCK).
+
 ## May 28<sup>th</sup>, 2026
 
 * Topic: **Jakarta Concurrency**
