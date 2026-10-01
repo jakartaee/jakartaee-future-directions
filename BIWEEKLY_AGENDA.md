@@ -9,7 +9,10 @@
   * Then, in May 2025, there was a discussion on the namespace issue, that is, should the MicroProfile specs retain their respective namespaces?
   * An official ballot was initiated in November 2025 resulting in the proposal to retain the MicroProfile namespaces having failed.
   * The call for the merger was resurrected earlier this month.
-  * This meeting is to discuss this face-to-face, as it were, instead of via email. 
+  * This meeting is to discuss this face-to-face, as it were, instead of via email.
+* [Recording](https://youtu.be/hr7mszMJCWc)
+* [Minutes](https://github.com/jakartaee/jakartaee-future-directions/blob/main/transcripts/FD-20260924-Minutes.md)
+
 
 ## July 23<sup>rd</sup>, 2026
 
