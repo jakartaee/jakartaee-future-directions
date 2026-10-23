@@ -1,8 +1,21 @@
 # Biweekly Agenda
 
+## October 29<sup>th</sup>, 2026
+
+* Topic **The Merger of MicroProfile and Jakarta EE (part 2)**
+* Facilitator: **Neil Patterson** and **Michael Redlich**
+* Description:
+  * A proposal to merge MicroProfile into Jakarta EE was initiated in March 2025.
+  * Then, in May 2025, there was a discussion on the namespace issue, that is, should the MicroProfile specs retain their respective namespaces?
+  * An official ballot was initiated in November 2025 resulting in the proposal to retain the MicroProfile namespaces having failed.
+  * The call for the merger was resurrected earlier this month.
+  * This meeting is to continue discussing this topic face-to-face, as it were, instead of via email.
+
+-----
+
 ## September 24<sup>th</sup>, 2026
 
-* Topic **The Merger of MicroProfile and Jakarta EE**
+* Topic **The Merger of MicroProfile and Jakarta EE (part 1)**
 * Facilitator: **Neil Patterson** and **Michael Redlich**
 * Description:
   * A proposal to merge MicroProfile into Jakarta EE was initiated in March 2025.
@@ -13,6 +26,7 @@
 * [Recording](https://youtu.be/hr7mszMJCWc)
 * [Minutes](https://github.com/jakartaee/jakartaee-future-directions/blob/main/transcripts/FD-20260924-Minutes.md)
 
+-----
 
 ## July 23<sup>rd</sup>, 2026
 
@@ -20,17 +34,23 @@
 * Facilitator: **Markus Eisele**
 * Description: We are excited to have Markus Eisele join us to lead a discussion on the exciting opportunity Agentic Assistants, including IBM Bob, bring to Jakarta EE. Together we will explore the potential for using skills and agents, along with MCP servers to address complexity in the next generation of enterprise Java applications..
 
+-----
+
 ## May 28<sup>th</sup>, 2026
 
 * Topic: **Jakarta Concurrency**
 * Facilitator: **Arjan Tijms**
 * Description: Arjan will provide an update on the new features of Jakarta Concurrency 3.2.
 
+-----
+
 ## April 30<sup>th</sup>, 2026
 
 * Topic: **Jakarta REST 5.0 - CDI Integration update**
 * Facilitator: **James Perkins**
 * Description: James will provide an update on the changes coming in Jakarta EE 12 with the REST 5.0 - CDI Integration.
+
+-----
 
 ## April 16<sup>th</sup>, 2026
 
@@ -39,15 +59,21 @@
 * Description: Reza will provide an update on the [Jakarta Agentic AI](https://jakarta.ee/specifications/agentic-ai/) specification and plans for the 1.0 release.
 * [Recording](https://youtu.be/hq6p0RUPhZ0)
 
+-----
+
 ## February 26<sup>th</sup>, 2026
 
 * Topic: **langchain4j-cdi: Infuse your Jakarta and MicroProfile applications with AI**
 * Facilitator: **Buhake Sindi**
 * Description: Join our discussion as Buhake  shares insights into the new langchain4j-cdi repository within the LangChain4j GitHub organization. This project intends to bring the power of Jakarta EE with the reach of LangChain4j to AI development for Java applications. All the idioms you know and love from Jakarta now work with all the AI exposed by LangChain4j: injection, validation, persistence, REST and more!
 
+-----
+
 ## February 19<sup>th</sup>, 2026
 
 * Meeting canceled - topic moved to following week.
+
+-----
 
 ## February 5<sup>th</sup>, 2026
 
@@ -57,19 +83,26 @@
 * [Full transcript](https://github.com/jakartaee/jakartaee-future-directions/blob/main/transcripts/Jakarta%20EE%20Future%20Directions%20-%2020260205.pdf)
 * [Recording](https://youtu.be/DVPw3O3KYAk)
 
+-----
 
 ## December 11<sup>th</sup>, 2025
 
 * Topic: **Jakarta NoSQL 1.1.0**
 * Facilitator: **Otávio Santana**
 
+-----
+
 ## November 27<sup>th</sup>, 2025
 
 * Meeting canceled; Thanksgiving Day in the United States.
 
+-----
+
 ## November 13<sup>th</sup>, 2025
 
 * Meeting canceled; No topic.
+
+-----
 
 ## October 30<sup>th</sup>, 2025
 
@@ -77,11 +110,15 @@
 * Facilitator: **Mary Grygleski**
 * [Discussion Summary](https://github.com/jakartaee/jakartaee-future-directions/blob/main/transcripts/Jakarta%20EE%20Future%20Directions%20-%2020251030.pdf)
 
+-----
+
 ## October 16<sup>th</sup>, 2025
 
 * Topic: **Roundtable Discussion** (continued)
 * Facilitator: **Neil Patterson** and **Michael Redlich**
 * Intent: To brainstorm topics for upcoming meetings (see Specification Variations section)
+
+-----
 
 ## October 2<sup>nd</sup>, 2025
 
@@ -89,14 +126,19 @@
 * Facilitator: **Neil Patterson** and **Michael Redlich**
 * Intent: To brainstorm topics for upcoming meetings (see Specification Variations section)
 
+-----
+
 ## September 18<sup>th</sup>, 2025
 
 * Meeting canceled; No topic.
+
+-----
 
 ## September 4<sup>th</sup>, 2025
 
 * Meeting canceled; No topic.
 
+-----
 
 ## August 21<sup>st</sup>, 2025
 
@@ -105,40 +147,54 @@
 * [Recording](https://youtu.be/lipodiI0wqw)
 * [Slides](https://github.com/jakartaee/jakartaee-future-directions/blob/main/transcripts/JakartaEE-FutureDirections-AI-Meets-Enterprise.pdf)
 
+-----
+
 ## August 7<sup>th</sup>, 2025
 
 * Meeting canceled; summer break.
+
+-----
 
 ## July 24<sup>th</sup>, 2025
 
 * Topic: **What's New in Jakarta Security 5.0?**
 * Facilitator: **Arjan Tijms**
 
+-----
+
 ## July 10<sup>th</sup>, 2025
 
 * Topic: **Future directions with Data Access in Jakarta EE as well as Java and Quantum**
 * Facilitator: **Gavin King**
-  
+
+-----
+
 ## June 26<sup>th</sup>, 2025
 
 * Topic: **Jakarta EE 11 Release & Content Preference Survey**
 * Facilitator: **Neil Patterson**
+
+-----
 
 ## June 12<sup>th</sup>, 2025
 
 * Topic: **Jakarta EE 12**
 * Facilitator: **Jared Anderson**
 
+-----
+
 ## May 29<sup>th</sup>, 2025
 
 * Topic: **Concerns with Jakarta Validation 4.0 and Jakarta Annotations 3.1**
 * Facilitator: **Michael Redlich**
 
+-----
+
 ## May 15<sup>th</sup>, 2025
 
 * Topic postponed due to only three attendees
 
----
+-----
 
 ## Backlog of Agenda Items
 
